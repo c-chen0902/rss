@@ -1,0 +1,369 @@
+title,url,date,description,img
+Version 9.0.2(23.10.21),https://www.desksoft.com/WindowManager_Version.htm,Sat Oct 23 00:00:00 2021,"New: further speed optimizations
+Fix: long time delay before moving certain windows",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 9.0.1(22.10.21),https://www.desksoft.com/WindowManager_Version.htm,Fri Oct 22 00:00:00 2021,"New: command line parameters to disable / enable the program
+New: additional parameter for advanced commands ""KEY"" and ""TYPE"" to not set focus on target window",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 9.0.0(20.10.21),https://www.desksoft.com/WindowManager_Version.htm,Wed Oct 20 00:00:00 2021,"New: new and improved method of detecting window changes
+New: reduced idle CPU load
+New: faster window handling
+New: improved hot-key selection dialog (you can type into the list directly to select a key combination)
+New: improved manual and automatic saving and restoring desktop icon positions
+New: virtual desktop functions support for Windows 11
+New: option to disable whole program instead of single profiles
+Fix: advanced command ""RUN"" starts programs from current user account
+Fix: various improvements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 8.2.0(27.08.21),https://www.desksoft.com/WindowManager_Version.htm,Fri Aug 27 00:00:00 2021,"New: improved execution of advanced scripts (more reliable type, key, click, etc. commands)
+Fix: various improvements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 8.1.3(06.08.21),https://www.desksoft.com/WindowManager_Version.htm,Fri Aug  6 00:00:00 2021,Fix: button position problem when resizing the main dialog,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 8.1.2(05.08.21),https://www.desksoft.com/WindowManager_Version.htm,Thu Aug  5 00:00:00 2021,"New: cursor ""Up"" and ""Down"" to increment or decrement values in the position and size edit fields in the rule actions. Keys ""G"" and ""S"" get and set the current values.
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 8.1.1(18.06.21),https://www.desksoft.com/WindowManager_Version.htm,Fri Jun 18 00:00:00 2021,"Fix: option ""Run as administrator"" off by default to prevent problems for standard users
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 8.1.0(14.06.21),https://www.desksoft.com/WindowManager_Version.htm,Mon Jun 14 00:00:00 2021,"New: profile restriction to DPI of selected display
+Fix: type command in advanced actions had problems with characters that needed ctrl or alt pressed
+Fix: font size issue in smooth scrolling list boxes
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 8.0.0(07.05.21),https://www.desksoft.com/WindowManager_Version.htm,Fri May  7 00:00:00 2021,"New: option to run as administrator
+New: profile option to restore desktop icon positions
+New: profile trigger includes screen DPI
+New: improved window picker
+New: single rules can be disabled within a profile (for testing rules, etc.)
+New: advanced commands can be executed when window is activated or deactivated (in addition to other events)
+New: improved event reporting in the ""List..."" dialog
+New: different modes for updating profiles when certain events occur
+New: restricting profiles to screen configurations
+New: trigger on main screen DPI change
+New: update profile before main screen resolution change
+New: update profile before main screen DPI change
+New: example profile ""Save All"" for saving and restoring all open windows when screen resolution changes (e.g. when Display Port monitors are attached or detached).
+Fix: various improvements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.8.1(26.01.21),https://www.desksoft.com/WindowManager_Version.htm,Tue Jan 26 00:00:00 2021,"Fix: issue with option for handling title changing windows
+Fix: issue with creating rules for windows that changed title
+Fix: ignore transparent windows (complete screen overlays of some programs)
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.8.0(23.01.21),https://www.desksoft.com/WindowManager_Version.htm,Sat Jan 23 00:00:00 2021,"New: advanced commands can be executed when window is restored (in addition to other events)
+Fix: advanced commands working on all windows if rule covers more than one window
+Fix: ignore list not saved on restart
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.7.0(15.12.20),https://www.desksoft.com/WindowManager_Version.htm,Tue Dec 15 00:00:00 2020,"New: profile trigger on input idle
+New: matching parameter: ignore large windows
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.6.3(24.11.20),https://www.desksoft.com/WindowManager_Version.htm,Tue Nov 24 00:00:00 2020,"Fix: problem with Modern UI apps
+Fix: further reduction of system load",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.6.2(20.11.20),https://www.desksoft.com/WindowManager_Version.htm,Fri Nov 20 00:00:00 2020,Fix: reduced system load,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.6.1(08.11.20),https://www.desksoft.com/WindowManager_Version.htm,Sun Nov  8 00:00:00 2020,"Fix: windows that are minimized to tray were treated as new windows when restored from tray
+Fix: windows that are minimized to tray were restored when executing a profile",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.6.0(ß7.10.20),https://www.desksoft.com/WindowManager_Version.htm,Wed Oct  7 00:00:00 2020,"New: profile triggers only apply if screen mode matches (if screen trigger is enabled)
+New: new advanced command: set title text of selected window
+Fix: switching virtual desktops when rule sets window to ""on top"" or ""at bottom""",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.5.6(29.09.20),https://www.desksoft.com/WindowManager_Version.htm,Tue Sep 29 00:00:00 2020,"Fix: empty entry in ignore list causing WindowManager to stop working
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.5.5(21.09.20),https://www.desksoft.com/WindowManager_Version.htm,Mon Sep 21 00:00:00 2020,"Fix: virtual screen trigger not working when options for individual icons not selected
+Fix: restoring positions for individual icons on virtual desktops doesn't work for some icons",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.5.4(28.08.20),https://www.desksoft.com/WindowManager_Version.htm,Fri Aug 28 00:00:00 2020,Fix: auto start with Windows not working on some systems,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.5.3(26.08.20),https://www.desksoft.com/WindowManager_Version.htm,Wed Aug 26 00:00:00 2020,"New: internal optimizations
+Fix: recompilation with latest compiler version",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.5.2(13.07.20),https://www.desksoft.com/WindowManager_Version.htm,Mon Jul 13 00:00:00 2020,"New: option for enabling profile when it is loaded
+Fix: virtual desktop selection not remembered if window is open",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.5.1(17.06.20),https://www.desksoft.com/WindowManager_Version.htm,Wed Jun 17 00:00:00 2020,"New: hot-key for enabling / disabling the active profile
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.5.0(24.05.20),https://www.desksoft.com/WindowManager_Version.htm,Sun May 24 00:00:00 2020,"New: advanced commands for profiles
+New: improved advanced command RUN (can check if program is already running)
+New: improved advanced command WAIT (can wait a random time)
+New: new advanced command STOP for closing programs
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.4.3(13.04.20),https://www.desksoft.com/WindowManager_Version.htm,Mon Apr 13 00:00:00 2020,"New: option for default mode for rule actions (this or last position, size, state)
+New: move to virtual desktop automatically enabled for new rules if more than 1 virtual desktop exists
+Fix: prevent triggering disabled profiles",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.4.2(03.03.20),https://www.desksoft.com/WindowManager_Version.htm,Tue Mar  3 00:00:00 2020,"New: option for temporarily restoring minimized / maximized windows that don't respond to move or resize
+Fix: improved compatibility of right-clicking minimize button for minimizing windows to the tray area",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.4.1(15.02.20),https://www.desksoft.com/WindowManager_Version.htm,Sat Feb 15 00:00:00 2020,"Fix: issue with applying profiles for existing windows with changed titles
+Fix: issue with new tabs in internet browsers",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.4.0(14.02.20),https://www.desksoft.com/WindowManager_Version.htm,Fri Feb 14 00:00:00 2020,"New: improvements for handling state changing without positioning or resizing
+New: improvements for handling caption changers
+New: real-time update of bold item text for currently open windows in main tree view
+Fix: issue with saving options when system shuts down",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.11(22.01.20),https://www.desksoft.com/WindowManager_Version.htm,Wed Jan 22 00:00:00 2020,Fix: issue when programs change the display resolution,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.10(20.01.20),https://www.desksoft.com/WindowManager_Version.htm,Mon Jan 20 00:00:00 2020,"Fix: small issue when copying a rule
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.9(10.01.20),https://www.desksoft.com/WindowManager_Version.htm,Fri Jan 10 00:00:00 2020,New: advanced commands: attaching to thread input queue now optional as a command,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.8(04.01.20),https://www.desksoft.com/WindowManager_Version.htm,Sat Jan  4 00:00:00 2020,"Fix: centering windows from ""Edit"" dialog in the ""List..."" dialog
+Fix: rare issue with internal uncompression routine",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.7(29.12.19),https://www.desksoft.com/WindowManager_Version.htm,Sun Dec 29 00:00:00 2019,"New: improved setup and uninstall programs
+New: updated end user license agreement in setup
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.6(21.12.19),https://www.desksoft.com/WindowManager_Version.htm,Sat Dec 21 00:00:00 2019,"Fix: saving options and configuration sometimes failed
+Fix: improved format of setup program
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.5(15.12.19),https://www.desksoft.com/WindowManager_Version.htm,Sun Dec 15 00:00:00 2019,"Fix: list header column sizes in ""List..."" dialog
+Fix: list header column sizes remembered in key selection dialog",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.4(13.12.19),https://www.desksoft.com/WindowManager_Version.htm,Fri Dec 13 00:00:00 2019,Fix: new compilation for avoiding false virus detections,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.3(05.12.19),https://www.desksoft.com/WindowManager_Version.htm,Thu Dec  5 00:00:00 2019,"Fix: order of rule events in list dialog now more intuitive (first window event, then the rule it triggered)
+Fix: selection rectangle for pick actions
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.2(04.12.19),https://www.desksoft.com/WindowManager_Version.htm,Wed Dec  4 00:00:00 2019,"Fix: improvements for handling caption changers
+Fix: more reliable keyboard and type simulation in advanced commands",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.1(02.12.19),https://www.desksoft.com/WindowManager_Version.htm,Mon Dec  2 00:00:00 2019,"Fix: DPI scaling issues for Windows Vista, Windows 7 and Windows 8
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.3.0(01.12.19),https://www.desksoft.com/WindowManager_Version.htm,Sun Dec  1 00:00:00 2019,"New: update button to update the rules tree
+New: hot-keys can now also be selected from a list of all available keys
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.2.3(23.11.19),https://www.desksoft.com/WindowManager_Version.htm,Sat Nov 23 00:00:00 2019,"Fix: DPI font selectiom for list dialog
+Fix: ome DPI related dialog display issues",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.2.2(20.11.19),https://www.desksoft.com/WindowManager_Version.htm,Wed Nov 20 00:00:00 2019,"Fix: pasting a copied rule to a groups
+Fix: cosmetical user interface improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.2.1(13.11.19),https://www.desksoft.com/WindowManager_Version.htm,Wed Nov 13 00:00:00 2019,Fix: improvements for windows spanning monitors with different DPI settings,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.2.0(04.11.19),https://www.desksoft.com/WindowManager_Version.htm,Mon Nov  4 00:00:00 2019,"New: added command line parameters for controlling basic functions
+New: option to match windows on currently active virtual desktop only
+New: option for update trigger to update currently active profile only
+New: creation of start menu shortcuts now optional in setup
+New: setup dynamically adjusts to DPI changes
+New: program dialogs dynamically adjust to DPI changes
+New: improved options saving format
+Fix: better support for monitor configuration with mixed DPI settings
+Fix: various small changes and fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.1.1(16.10.19),https://www.desksoft.com/WindowManager_Version.htm,Wed Oct 16 00:00:00 2019,"Fix: saving profile options when switching profiles
+Fix: random crashes with ""Find"" function
+Fix: window and font sizes for displays with different DPI settings",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.1.0(11.10.19),https://www.desksoft.com/WindowManager_Version.htm,Fri Oct 11 00:00:00 2019,"New: individual advanced actions when windows are opened, closed, minimized, maximized or when a trigger event occurs
+Fix: various small enhancements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.0.4(18.07.19),https://www.desksoft.com/WindowManager_Version.htm,Thu Jul 18 00:00:00 2019,Fix: issue with update triggers not working,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.0.4(18.07.19),https://www.desksoft.com/WindowManager_Version.htm,Thu Jul 18 00:00:00 2019,Fix: issues with profile hot-key assignement,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.0.3(16.07.19),https://www.desksoft.com/WindowManager_Version.htm,Tue Jul 16 00:00:00 2019,"Fix: crash when editing a window item in the ""Window List"" dialog on Windows 8 and below",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.0.2(09.07.19),https://www.desksoft.com/WindowManager_Version.htm,Tue Jul  9 00:00:00 2019,Fix: reduced CPU load for virtual desktop functions,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.0.1(08.07.19),https://www.desksoft.com/WindowManager_Version.htm,Mon Jul  8 00:00:00 2019,"Fix: small issue with error message for hot-keys for virtual desktops
+Fix: issue with option ""Handle first matching window only"" and ""-NOEXECUTE"" command line parameter",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 7.0.0(01.07.19),https://www.desksoft.com/WindowManager_Version.htm,Mon Jul  1 00:00:00 2019,"New: it's now possible to handle multiple instances of same window separately
+New: Windows 10 virtual desktop support + enhancements (hot-keys, individual desktop icons, etc.)
+New: command line parameter to start WindowManager without executing the current profile
+New: tray icon context menu
+New: various enhancements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.7.1(23.05.19),https://www.desksoft.com/WindowManager_Version.htm,Thu May 23 00:00:00 2019,"Fix: problem with screen trigger not recognized
+Fix: issue when pressing ESC during drag & drop operations of tree items
+Fix: various small changes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.7.0(06.05.19),https://www.desksoft.com/WindowManager_Version.htm,Mon May  6 00:00:00 2019,"New: removed Windows XP support (please download v6.6.2 if you want to use the program under Windows XP)
+New: Visual Studio 2019 recompilation for better compatibility to new systems
+New: adjustments for the latest updates of Windows 10",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.6.2(23.04.19),https://www.desksoft.com/WindowManager_Version.htm,Tue Apr 23 00:00:00 2019,Fix: small cosmetical changes to some dialogs,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.6.1(13.03.19),https://www.desksoft.com/WindowManager_Version.htm,Wed Mar 13 00:00:00 2019,"Fix: error message when saving changes to a rule
+Fix: dialog and menu positions when screen configuration changes
+Fix: small fixes regarding user account access (data folder, etc.)
+Fix: adjustments for the latest updates of Windows 10",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.6.0(03.03.19),https://www.desksoft.com/WindowManager_Version.htm,Sun Mar  3 00:00:00 2019,"New: improved unattended setup
+Fix: various small fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.5.5(25.02.19),https://www.desksoft.com/WindowManager_Version.htm,Mon Feb 25 00:00:00 2019,New: option to ignore non-resizable windows,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.5.4(22.01.19),https://www.desksoft.com/WindowManager_Version.htm,Tue Jan 22 00:00:00 2019,Fix: issue with state changing not working without moving a window,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.5.3(21.01.19),https://www.desksoft.com/WindowManager_Version.htm,Mon Jan 21 00:00:00 2019,Fix: issue with ignore list in main options,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.5.2(10.12.18),https://www.desksoft.com/WindowManager_Version.htm,Mon Dec 10 00:00:00 2018,Fix: deleting a profile did not unregister its hot-keys,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.5.1(02.12.18),https://www.desksoft.com/WindowManager_Version.htm,Sun Dec  2 00:00:00 2018,"Fix: caption text sometimes incorrect in edit dialog
+Fix: picking controls and child windows didn't work correctly",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.5.0(18.11.18),https://www.desksoft.com/WindowManager_Version.htm,Sun Nov 18 00:00:00 2018,"New: improved window handling for maximized and minimized windows
+New: removed option to keep windows on screen (now permanently enabled)
+Fix: window positions on desktop with non-standard taskbar positions (right side or top)
+Fix: update check incorrectly reporting no new version available
+Fix: some minor bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.4.0(08.11.18),https://www.desksoft.com/WindowManager_Version.htm,Thu Nov  8 00:00:00 2018,"New: improved detection of window rectangle when creating rules for maximized or minimized windows
+New: improved window handling when locking layout parameters
+Fix: issue with caption matching with 2 parts (with separator)
+Fix: some issues on systems with monitors with different dpi settings
+Fix: some minor bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.3.1(22.10.18),https://www.desksoft.com/WindowManager_Version.htm,Mon Oct 22 00:00:00 2018,"New: resizing of windows without sizing borders
+New: reduced minimum update check interval to 7 days",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.3.0(18.10.18),https://www.desksoft.com/WindowManager_Version.htm,Thu Oct 18 00:00:00 2018,"New: hot-key for creating a rule for currently active window only
+New: confirmation sound for hot-keys
+New: edit window properties directly from the list
+Fix: various small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.2.0(24.09.18),https://www.desksoft.com/WindowManager_Version.htm,Mon Sep 24 00:00:00 2018,"New: option for moving a window relative to current mouse position
+New: button for centering a window on screen",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.1.2(30.08.18),https://www.desksoft.com/WindowManager_Version.htm,Thu Aug 30 00:00:00 2018,"New: using 0 for the match option ""Handle if title changed within x ms"" makes the rule always check windows that change the title",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.1.1(15.08.18),https://www.desksoft.com/WindowManager_Version.htm,Wed Aug 15 00:00:00 2018,"Fix: issue with automatic archive function not backing up all files
+Fix: small issue with update check",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.1.0(11.08.18),https://www.desksoft.com/WindowManager_Version.htm,Sat Aug 11 00:00:00 2018,"New: custom icons for windows minimized to tray
+New: option to keep window always on screen
+New: automatic archiving of configuration
+New: improved ""About"" and ""Update"" dialogs
+Fix: higher resolution application tray icon for high desktop scaling values
+Fix: various small bug fixes, changes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 6.0.0(22.07.18),https://www.desksoft.com/WindowManager_Version.htm,Sun Jul 22 00:00:00 2018,"New: complete redesign of functionality based on manual rule creation
+New: improved basic concept of rules
+New: groups for organizing rules
+New: simplified configuration and handling
+New: simplified multi-monitor support
+New: modernized, simplified interface
+New: drag & drop support for rearranging rules and groups
+New: more detailed license information in ""About"" dialog
+New: updated license agreement and terms of use",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.3.3(05.05.18),https://www.desksoft.com/WindowManager_Version.htm,Sat May  5 00:00:00 2018,"New: more status messages in real time monitor dialog""
+Fix: small glitch in follow options (position, size, etc.)",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.3.2(15.04.18),https://www.desksoft.com/WindowManager_Version.htm,Sun Apr 15 00:00:00 2018,Fix: handling problem for windows that change caption text,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.3.1(09.04.18),https://www.desksoft.com/WindowManager_Version.htm,Mon Apr  9 00:00:00 2018,Fix: default handling by rule if maximum number of windows is reached,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.3.0(08.03.18),https://www.desksoft.com/WindowManager_Version.htm,Thu Mar  8 00:00:00 2018,New: possibility to install and uninstall the program silently for mass deployment. See the manual for details.,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.2.0(05.02.18),https://www.desksoft.com/WindowManager_Version.htm,Mon Feb  5 00:00:00 2018,"New: options to handle window when position, size or state changes (basically for freezing these parameters)",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.1.0(09.10.17),https://www.desksoft.com/WindowManager_Version.htm,Mon Oct  9 00:00:00 2017,"New: monitor can be selected by number (and not only by name, which changes sometimes)
+Fix: various small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.0.1(05.08.17),https://www.desksoft.com/WindowManager_Version.htm,Sat Aug  5 00:00:00 2017,"Fix: default monitor mode after upgrading now ""Last monitor""
+Fix: option ""Keep windows on screen after resolution change"" now only applies to resolution changes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 5.0.0(04.08.17),https://www.desksoft.com/WindowManager_Version.htm,Fri Aug  4 00:00:00 2017,"New: improved and redesigned multi-monitor support
+New: profile updates can be triggered by hot-key, time intervals or events (like system idle, screen saver active, session lock)
+New: global hot-key for applying current profile
+New: global hot-key for updating current profile
+New: button for centering windows on screen
+Fix: various small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.7.2(18.07.17),https://www.desksoft.com/WindowManager_Version.htm,Tue Jul 18 00:00:00 2017,Fix: improved compatibility with Windows Vista and XP,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.7.1(16.07.17),https://www.desksoft.com/WindowManager_Version.htm,Sun Jul 16 00:00:00 2017,"Fix: glitch with new on top options when creating new rules, snapshots, etc.",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.7.0(14.07.17),https://www.desksoft.com/WindowManager_Version.htm,Fri Jul 14 00:00:00 2017,"New: hotkey for triggering active window only
+New: search function for window list
+New: option for bringing windows on top or below of all others
+New: option for making windows always on top or always non topmost
+New: ""Del"" key removes window items
+Fix: ""Keep windows on screen after display resolution change"" defaults to off
+Fix: updated manual
+Fix: various small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.6.1(29.05.17),https://www.desksoft.com/WindowManager_Version.htm,Mon May 29 00:00:00 2017,"Fix: support for multiple windows opened with same shortcut, etc.",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.6.0(08.05.17),https://www.desksoft.com/WindowManager_Version.htm,Mon May  8 00:00:00 2017,"New: Visual Studio 2017 recompilation
+New: registration name can be displayed in non-ANSI characters in ""About"" dialog",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.5.3(06.03.17),https://www.desksoft.com/WindowManager_Version.htm,Mon Mar  6 00:00:00 2017,"New: position, size and state values are initialized with the entered values for new windows matching a rule",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.5.2(28.02.17),https://www.desksoft.com/WindowManager_Version.htm,Tue Feb 28 00:00:00 2017,"Fix: restored size of windows wrong when closed maximized
+Fix: texts in options dialog at 125% DPI desktop truncated",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.5.1(10.02.17),https://www.desksoft.com/WindowManager_Version.htm,Fri Feb 10 00:00:00 2017,Fix: pinned tray icons are now removed when windows are closed,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.5.0(03.02.17),https://www.desksoft.com/WindowManager_Version.htm,Fri Feb  3 00:00:00 2017,"New: hot-key for opening main dialog
+New: snapshot button to create rules for currently open windows
+New: copy & paste rules and windows (within or between profiles)
+Fix: various small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.4.1(10.12.16),https://www.desksoft.com/WindowManager_Version.htm,Sat Dec 10 00:00:00 2016,"Fix: setup problems for user names starting with 'n' or 'r'
+Fix: default configuration path in user profile when selecting custom data location",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.4.0(10.10.16),https://www.desksoft.com/WindowManager_Version.htm,Mon Oct 10 00:00:00 2016,"New: time trigger to execute profiles repeatedly
+New: option to execute profiles by triggers without switching the currelty selected (and active) profile
+Fix: small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.3.0(16.09.16),https://www.desksoft.com/WindowManager_Version.htm,Fri Sep 16 00:00:00 2016,"New: power event triggers (resume from sleep, plug into ac power, etc.)
+New: advanced command ""STATE"" now with parameters for making a window topmost or non-topmost
+Fix: bug causing window items to be created when already matching item exists
+Fix: small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.2.2(02.06.16),https://www.desksoft.com/WindowManager_Version.htm,Thu Jun  2 00:00:00 2016,Fix: setup warns if data location is selected on drives without write permission,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.2.1(26.05.16),https://www.desksoft.com/WindowManager_Version.htm,Thu May 26 00:00:00 2016,Fix: rules disappearing when multiple windows with exact same properties exist under one rule,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.2.0(23.05.16),https://www.desksoft.com/WindowManager_Version.htm,Mon May 23 00:00:00 2016,"New: option to ignore commands on trigger
+Fix: thread safe window list to prevent window list corruption",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.1.1(14.04.16),https://www.desksoft.com/WindowManager_Version.htm,Thu Apr 14 00:00:00 2016,Fix: window positions on left screen edge not working under Windows 10,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.1.0(12.04.16),https://www.desksoft.com/WindowManager_Version.htm,Tue Apr 12 00:00:00 2016,"New: option for defining window positions and sizes relative to the current screen size
+New: option to keep windows on screen if resolution changes
+Fix: remember windows after display change and other triggers",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.7(23.03.16),https://www.desksoft.com/WindowManager_Version.htm,Wed Mar 23 00:00:00 2016,"Fix: crash with ""Freeze"" option",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.6(22.01.16),https://www.desksoft.com/WindowManager_Version.htm,Fri Jan 22 00:00:00 2016,Fix: improved handling of maximized windows on multi-monitor systems,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.5(16.01.16),https://www.desksoft.com/WindowManager_Version.htm,Sat Jan 16 00:00:00 2016,Fix: pick function for window positions and sizes in actions dialog,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.4(02.01.16),https://www.desksoft.com/WindowManager_Version.htm,Sat Jan  2 00:00:00 2016,Fix: reduced minimum size of main dialog for high-DPI displays,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.3(31.12.15),https://www.desksoft.com/WindowManager_Version.htm,Thu Dec 31 00:00:00 2015,Fix: loading of profiles with more than 255 windows,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.2(25.12.15),https://www.desksoft.com/WindowManager_Version.htm,Fri Dec 25 00:00:00 2015,Fix: options saving with multiple profiles,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.1(17.12.15),https://www.desksoft.com/WindowManager_Version.htm,Thu Dec 17 00:00:00 2015,"Fix: ""Freeze"" option did not work correctly",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 4.0.0(12.12.15),https://www.desksoft.com/WindowManager_Version.htm,Sat Dec 12 00:00:00 2015,"New: handle only selected windows defined by rules (instead of all windows like in previous version)
+New: completely different hig-level approach for better compatibility and reliability
+New: removed low-level system message hooks for better performance and less system load
+New: support for Modern UI apps under Windows 10
+New: monitor dialog for getting real-time information about opening, closing, changing windows
+New: more powerful and intuitive configuration of window handling rules
+New: new options saving system that allows the configuration to be kept when updating versions
+New: improved user interface with comfortable ways to select windows for creating rules
+New: advanced command scripts can be executed when opening or closing a window
+Fix: many bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.7.2(23.09.15),https://www.desksoft.com/WindowManager_Version.htm,Wed Sep 23 00:00:00 2015,Fix: ignoring Task Scheduler error when creating auto startup task,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.7.1(21.09.15),https://www.desksoft.com/WindowManager_Version.htm,Mon Sep 21 00:00:00 2015,Fix: ignoring of window state sometimes restored the window,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.7.0(20.09.15),https://www.desksoft.com/WindowManager_Version.htm,Sun Sep 20 00:00:00 2015,"New: improved window state handling (minimized, maximized, etc.) Can now be ignored.
+New: digitally signed setup program and main program
+New: improved setup program",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.6.2(18.08.15),https://www.desksoft.com/WindowManager_Version.htm,Tue Aug 18 00:00:00 2015,"New: Visual Studio 2015 recompilation
+Fix: post-setup copy operations for unattended setup improved (see manual for details)",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.6.1(08.08.15),https://www.desksoft.com/WindowManager_Version.htm,Sat Aug  8 00:00:00 2015,"Fix: improved Windows 10 compatibility (ignore Modern UI apps)
+Fix: hiding windows by clicking tray icon sometimes did not work",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.6.0(18.07.15),https://www.desksoft.com/WindowManager_Version.htm,Sat Jul 18 00:00:00 2015,New: Windows 10 compatibility,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.5.0(27.05.15),https://www.desksoft.com/WindowManager_Version.htm,Wed May 27 00:00:00 2015,"New: remember pin state of tray minimized windows
+New: left-button minimize to tray for specified windows",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.4.3(28.11.14),https://www.desksoft.com/WindowManager_Version.htm,Fri Nov 28 00:00:00 2014,"Fix: keyboard navigation in main dialog not working
+Fix: ESC key to hide main dialog not working",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.4.2(08.11.14),https://www.desksoft.com/WindowManager_Version.htm,Sat Nov  8 00:00:00 2014,Fix: crash with extremely long texts in match window edit fields,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.4.1(23.07.14),https://www.desksoft.com/WindowManager_Version.htm,Wed Jul 23 00:00:00 2014,Fix: window positions correctly restored when starting WindowManager by command line with profile parameter,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.4.0(19.06.14),https://www.desksoft.com/WindowManager_Version.htm,Thu Jun 19 00:00:00 2014,"New: delay parameter for screen and session triggers
+New: session changes as profile triggers",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.3.4(18.04.14),https://www.desksoft.com/WindowManager_Version.htm,Fri Apr 18 00:00:00 2014,Fix: various small bug fixes and internal improvements,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.3.3(28.06.13),https://www.desksoft.com/WindowManager_Version.htm,Fri Jun 28 00:00:00 2013,"New: windows with ""Keep"" property will not be moved to top of the window list (for advanced users)
+Fix: incorrect position of maximized windows on multi-monitor systems",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.3.2(02.06.13),https://www.desksoft.com/WindowManager_Version.htm,Sun Jun  2 00:00:00 2013,Fix: auto start default off to prevent problems on multi-user platforms,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.3.1(13.04.13),https://www.desksoft.com/WindowManager_Version.htm,Sat Apr 13 00:00:00 2013,"New: backup / restore / reset configuration in ""About"" dialog
+Fix: longer hook activation timeout
+Fix: various small bug fixes and improvements",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.3.0(04.03.13),https://www.desksoft.com/WindowManager_Version.htm,Mon Mar  4 00:00:00 2013,"New: restructured code for better compatibility and stability
+New: moved option ""Hide closed windows"" to main dialog
+New: properties dialog shows current window caption (useful for identifying text changers)
+Fix: inconsistency when handling delayed windows
+Fix: hooks updated after Explorer crash",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.2.0(15.02.13),https://www.desksoft.com/WindowManager_Version.htm,Fri Feb 15 00:00:00 2013,New: minimize any window to the system tray area by right-clicking the minimize button on the window,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.1.1(07.02.13),https://www.desksoft.com/WindowManager_Version.htm,Thu Feb  7 00:00:00 2013,Fix: installation problem under Windows XP,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.1.0(06.02.13),https://www.desksoft.com/WindowManager_Version.htm,Wed Feb  6 00:00:00 2013,"New: possibility to compare 2 parts in modes ""Caption contains"" and ""Caption does not contain""
+Fix: improved detecion of window changes for modes other than exact match",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.0.4(28.12.12),https://www.desksoft.com/WindowManager_Version.htm,Fri Dec 28 00:00:00 2012,New: improved update installation,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.0.3(18.12.12),https://www.desksoft.com/WindowManager_Version.htm,Tue Dec 18 00:00:00 2012,Fix: typo in options dialog,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.0.2(16.12.12),https://www.desksoft.com/WindowManager_Version.htm,Sun Dec 16 00:00:00 2012,Fix: typo in options dialog,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.0.1(06.11.12),https://www.desksoft.com/WindowManager_Version.htm,Tue Nov  6 00:00:00 2012,Fix: crash wehn starting disabled,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 3.0.0(17.10.12),https://www.desksoft.com/WindowManager_Version.htm,Wed Oct 17 00:00:00 2012,"New: powerful profile trigger system
+New: re-enable after Explorer restart
+New: apply profile when selected
+New: apply profile with command line parameter
+New: apply profile with Hot-Key
+New: apply profile on screen change (e.g. if second monitor is attached / detached)
+New: Windows 8 compatible",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 2.0.3(06.04.12),https://www.desksoft.com/WindowManager_Version.htm,Fri Apr  6 00:00:00 2012,Fix: empty window caption of update check dialog,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 2.0.2(02.02.12),https://www.desksoft.com/WindowManager_Version.htm,Thu Feb  2 00:00:00 2012,New: improved license check in update dialog,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 2.0.1(20.01.12),https://www.desksoft.com/WindowManager_Version.htm,Fri Jan 20 00:00:00 2012,"Fix: crash when closing main dialog with ""Cancel""",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 2.0.0(08.12.11),https://www.desksoft.com/WindowManager_Version.htm,Thu Dec  8 00:00:00 2011,"New: profiles for saving sets of configurations
+New: save view mode of Explorer Windows under Windows 7
+New: option to activate a window
+New: resizeable main dialog",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.9.1(14.10.11),https://www.desksoft.com/WindowManager_Version.htm,Fri Oct 14 00:00:00 2011,New: improved unattended setup with init of user configuration,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.9.0(15.09.11),https://www.desksoft.com/WindowManager_Version.htm,Thu Sep 15 00:00:00 2011,"New: increased flexibility for setting options and creating templates
+Fix: updated manual",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.8.3(25.03.11),https://www.desksoft.com/WindowManager_Version.htm,Fri Mar 25 00:00:00 2011,"New: increased default wait for text change time to 1000 ms
+Fix: compatibility to WordPad",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.8.2(06.01.11),https://www.desksoft.com/WindowManager_Version.htm,Thu Jan  6 00:00:00 2011,Fix: manually created startup links not deleted anymore,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.8.1(21.12.10),https://www.desksoft.com/WindowManager_Version.htm,Tue Dec 21 00:00:00 2010,Fix: autostart for limited users,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.8.0(20.12.10),https://www.desksoft.com/WindowManager_Version.htm,Mon Dec 20 00:00:00 2010,New: autostart now with administrative privileges,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.7.4(11.10.10),https://www.desksoft.com/WindowManager_Version.htm,Mon Oct 11 00:00:00 2010,"New: automatic update check
+Fix: various small internal improvements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.7.3(05.10.10),https://www.desksoft.com/WindowManager_Version.htm,Tue Oct  5 00:00:00 2010,"Fix: state handling (restore, minimize, maximize) problem",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.7.2(16.09.10),https://www.desksoft.com/WindowManager_Version.htm,Thu Sep 16 00:00:00 2010,Fix: Explorer default caption detected incorrectly on some systems,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.7.1(11.09.10),https://www.desksoft.com/WindowManager_Version.htm,Sat Sep 11 00:00:00 2010,"New: license file extension changed from ""dlc"" to ""DeskSoftLicense"" to avoid incompatibilities with other programs",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.7.0(14.07.10),https://www.desksoft.com/WindowManager_Version.htm,Wed Jul 14 00:00:00 2010,New: window matching by program,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.6.0(14.07.10),https://www.desksoft.com/WindowManager_Version.htm,Wed Jul 14 00:00:00 2010,New: automatic detection of localized Windows Explorer captions under Vista and Windows 7,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.5.3(22.06.10),https://www.desksoft.com/WindowManager_Version.htm,Tue Jun 22 00:00:00 2010,"Fix: saving current settings and options when shutting down the computer
+Fix: removed Windows 2000 from the compatibility list",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.5.2(20.05.10),https://www.desksoft.com/WindowManager_Version.htm,Thu May 20 00:00:00 2010,Fix: settings lost after reboot,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.5.1(14.04.10),https://www.desksoft.com/WindowManager_Version.htm,Wed Apr 14 00:00:00 2010,Fix: window position now not overwritten if window caption changes,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.5.0(07.04.10),https://www.desksoft.com/WindowManager_Version.htm,Wed Apr  7 00:00:00 2010,"New: option ""Enable"" on main dialog
+New: option ""Explorer only"" on main dialog
+New: option ""Freeze"" on main dialog
+New: setup distribution in exe file format
+fix: improved compatibility",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.4.1(01.12.09),https://www.desksoft.com/WindowManager_Version.htm,Tue Dec  1 00:00:00 2009,Fix: detection of closed windows,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.4.0(25.11.09),https://www.desksoft.com/WindowManager_Version.htm,Wed Nov 25 00:00:00 2009,"New: ""New"" button for easy creation of new window rules
+New: caption and class matching mode ""Does not contain""",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.3.2(17.11.09),https://www.desksoft.com/WindowManager_Version.htm,Tue Nov 17 00:00:00 2009,Fix: not setting focus to the opened windows by default anymore,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.3.1(04.11.09),https://www.desksoft.com/WindowManager_Version.htm,Wed Nov  4 00:00:00 2009,Fix: default options for new installations,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.3.0(18.10.09),https://www.desksoft.com/WindowManager_Version.htm,Sun Oct 18 00:00:00 2009,"New: option for right-clicking the tray icon to disable / enable WindowManager temporarily
+New: option for disabling / enabling the tray icon
+Fix: window position now not overwritten if window caption changes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.2.1(26.08.09),https://www.desksoft.com/WindowManager_Version.htm,Wed Aug 26 00:00:00 2009,"New: full Windows 7 (32 bit and 64 bit) compatibility
+Fix: coonfiguration not saved when restarting Windows",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.2.0(24.08.09),https://www.desksoft.com/WindowManager_Version.htm,Mon Aug 24 00:00:00 2009,"New: tray icon to indicate WindowManager is active (can be clicked to show main dialog)
+Fix: main dialog not on top of other windows
+Fix: various small internal improvements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.1.3(01.08.09),https://www.desksoft.com/WindowManager_Version.htm,Sat Aug  1 00:00:00 2009,Fix: various small internal improvements and bug fixes,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.1.2(24.06.09),https://www.desksoft.com/WindowManager_Version.htm,Wed Jun 24 00:00:00 2009,Fix: uninstall not working under certain configurations,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.1.1(22.06.09),https://www.desksoft.com/WindowManager_Version.htm,Mon Jun 22 00:00:00 2009,"New: updated setup routine. Added warning when an antivirus software, firewall, etc. blocks setup.
+Fix: various small internal improvements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.1.0(07.06.09),https://www.desksoft.com/WindowManager_Version.htm,Sun Jun  7 00:00:00 2009,"New: option to execute any command line when opening a window
+New: option to ignore a window if one of that kind is already open
+New: option to move/size a window only once and have it remember the position/size subsequently
+Fix: improved compatibility
+Fix: speed improvements / significantly reduced system workload",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.0.2(02.06.09),https://www.desksoft.com/WindowManager_Version.htm,Tue Jun  2 00:00:00 2009,Fix: problem with setup when not choosing default data path,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.0.1(07.05.09),https://www.desksoft.com/WindowManager_Version.htm,Thu May  7 00:00:00 2009,"New: option to hide windows from the list that are not currently open
+New: closed windows are displayed in gray
+New: properties dialog improved for better handling of special rules",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
+Version 1.0.0(06.05.09),https://www.desksoft.com/WindowManager_Version.htm,Wed May  6 00:00:00 2009,First public release of WindowManager,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
