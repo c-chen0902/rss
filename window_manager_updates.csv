@@ -127,7 +127,6 @@ Fix: random crashes with ""Find"" function
 Fix: window and font sizes for displays with different DPI settings",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
 Version 7.1.0(11.10.19),https://www.desksoft.com/WindowManager_Version.htm,Fri Oct 11 00:00:00 2019,"New: individual advanced actions when windows are opened, closed, minimized, maximized or when a trigger event occurs
 Fix: various small enhancements and bug fixes",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
-Version 7.0.4(18.07.19),https://www.desksoft.com/WindowManager_Version.htm,Thu Jul 18 00:00:00 2019,Fix: issue with update triggers not working,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
 Version 7.0.4(18.07.19),https://www.desksoft.com/WindowManager_Version.htm,Thu Jul 18 00:00:00 2019,Fix: issues with profile hot-key assignement,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
 Version 7.0.3(16.07.19),https://www.desksoft.com/WindowManager_Version.htm,Tue Jul 16 00:00:00 2019,"Fix: crash when editing a window item in the ""Window List"" dialog on Windows 8 and below",https://www.desksoft.com/WindowManager/wmscreenshot_large.png
 Version 7.0.2(09.07.19),https://www.desksoft.com/WindowManager_Version.htm,Tue Jul  9 00:00:00 2019,Fix: reduced CPU load for virtual desktop functions,https://www.desksoft.com/WindowManager/wmscreenshot_large.png
