@@ -28,7 +28,7 @@ page_info_dict = {
     },
     
     'description':{
-        'selector':'.content-list .li-bottom',
+        'selector':'',
         'attribute':'text',
         'prefix':'' 
     },
@@ -51,7 +51,8 @@ def f_title(x):
 
 # --------------------------------------------------------------------------------------------------
 dic_webpages = {
-    'Fake Taxi':'https://www.pornhub.com/channels/faketaxi/videos?o=da'
+    'Fake Taxi':'https://www.pornhub.com/channels/faketaxi/videos?o=da',
+    'Backroom Casting Couch':'https://www.pornhub.com/channels/backroomcastingcouch/videos?o=da'
 }
 
 for page_title, page_url in dic_webpages.items():    

@@ -6,17 +6,17 @@ from datetime import datetime
 # --------------------------------------------------------------------------------------------------
 page_info_dict = {
     
-    'page_url':'https://www.pornhub.com/model/xtrade64/videos',
-    'page_title':'xtrade64',
+    'page_url':'https://www.pornhub.com/pornstar/danika-mori/videos/upload',
+    'page_title':'Danika Mori',
     
     'title':{
-        'selector':'#mostRecentVideosSection .thumbnail-info-wrapper.clearfix > span > a',
+        'selector':'.row-5-thumbs.videos .thumbnail-info-wrapper.clearfix > span > a',
         'attribute':'title',
         'prefix':'' 
     },
     
     'url':{
-        'selector':'#mostRecentVideosSection .thumbnail-info-wrapper.clearfix > span > a',
+        'selector':'.row-5-thumbs.videos .thumbnail-info-wrapper.clearfix > span > a',
         'attribute':'href',
         'prefix':'https://www.pornhub.com'        
     },
@@ -28,13 +28,13 @@ page_info_dict = {
     },
     
     'description':{
-        'selector':'.content-list .li-bottom',
+        'selector':'',
         'attribute':'text',
         'prefix':'' 
     },
     
     'img':{
-        'selector':'#mostRecentVideosSection .phimage > a > img',
+        'selector':'.row-5-thumbs.videos .phimage > a > img',
         'attribute':'data-src',
         'prefix':'' 
     }}
@@ -51,9 +51,8 @@ def f_title(x):
 
 # --------------------------------------------------------------------------------------------------
 dic_webpages = {
-    'Tinna Angel':'https://www.pornhub.com/model/tinna-angel/videos',
-    'xtrade64':'https://www.pornhub.com/model/xtrade64/videos',
-    'German Scout':'https://www.pornhub.com/model/german-scout/videos'    
+    'Danika Mori':'https://www.pornhub.com/pornstar/danika-mori/videos/upload',
+    'Made in Canarias':'https://www.pornhub.com/pornstar/madeincanarias/videos/upload'
 }
 
 for page_title, page_url in dic_webpages.items():    
@@ -69,4 +68,4 @@ for page_title, page_url in dic_webpages.items():
 
 # --------------------------------------------------------------------------------------------------
 # page.preview()    
-# page.test('#mostRecentVideosSection .phimage > a > img')
+# page.test('.row-5-thumbs.videos .thumbnail-info-wrapper.clearfix > span > a')

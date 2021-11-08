@@ -28,7 +28,7 @@ page_info_dict = {
     },
     
     'description':{
-        'selector':'.content-list .li-bottom',
+        'selector':'',
         'attribute':'text',
         'prefix':'' 
     },
@@ -53,7 +53,9 @@ def f_title(x):
 dic_webpages = {
     'Tinna Angel':'https://www.pornhub.com/model/tinna-angel/videos',
     'xtrade64':'https://www.pornhub.com/model/xtrade64/videos',
-    'German Scout':'https://www.pornhub.com/model/german-scout/videos'    
+    'German Scout':'https://www.pornhub.com/model/german-scout/videos',
+    'My New Profession':'https://www.pornhub.com/model/mynewprofession/videos',
+    'Finish Me':'https://www.pornhub.com/model/finishme/videos'
 }
 
 for page_title, page_url in dic_webpages.items():    
