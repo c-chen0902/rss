@@ -39,6 +39,7 @@ page_info_dict = {
         'prefix':'' 
     }}
 
+
 # --------------------------------------------------------------------------------------------------
 def f_date(_date):
     _date = datetime.utcnow()
@@ -49,13 +50,22 @@ def f_title(x):
     return x    
 
 # --------------------------------------------------------------------------------------------------
-page = RSS_page(page_info_dict)    
-page.get()
-df = page.get_rss_df()
-df['date'] = df['date'].apply(f_date)
+dic_webpages = {
+    'Tinna Angel':'https://www.pornhub.com/model/tinna-angel/videos',
+    'xtrade64':'https://www.pornhub.com/model/xtrade64/videos',
+    'German Scout':'https://www.pornhub.com/model/german-scout/videos'    
+}
 
-page.df_to_csv(df)
-page.csv_to_xml()
+for page_title, page_url in dic_webpages.items():    
+    page_info_dict['page_title'] = page_title
+    page_info_dict['page_url'] = page_url
+    page = RSS_page(page_info_dict)    
+    page.get()
+    df = page.get_rss_df()
+    df['date'] = df['date'].apply(f_date)
+    page.df_to_csv(df)
+    page.csv_to_xml()
+    time.sleep(1)
 
 # --------------------------------------------------------------------------------------------------
 # page.preview()    
