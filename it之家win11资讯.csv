@@ -1,4 +1,5 @@
 title,url,date,description,img
+新系统仍不够完美：盘点 Win11 的不尽如人意之处,https://www.ithome.com/0/585/494.htm,Tue Nov  9 07:05:08 2021,微软已经推送 Win11 正式版接近一个月了，Win10 中很多为人诟病已久的设计顽疾，在 Win11 中得到了有效解决。当前的 Win11 存在一些不尽如人意之处，今天就来简单聊聊吧,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585494_240.jpg
 不想被意外升级到微软 Win11，修改注册表让你保留在 Win10 系统,https://www.ithome.com/0/585/399.htm,Mon Nov  8 09:05:08 2021,微软在 Windows 10 版本 1803 或更高版本中引入了新的 TargetReleaseVersion 规范，它允许你设置希望操作系统升级到哪个版本或保持在哪个版本。,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585399_240.jpg
 微软 Win11 Dev 预览版出现奇怪 Bug：电量能充到 100% 以上,https://www.ithome.com/0/585/378.htm,Mon Nov  8 09:05:08 2021,众所周知，Dev 渠道的 Windows 系统同样都有许多 Bug，其中一些可能很有趣。近日，一些内部人员注意到 Win11 Dev 预览版 Build 22494 的一个奇特 Bug，Win11 错误地报告笔记本电脑的电量超过了 100%，这在物理上显然是不可能的，起码目前不可能,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585378_240.jpg
 Win11 新工具，轻轻松松帮你安装任何安卓 APK 应用,https://www.ithome.com/0/585/179.htm,Sat Nov  6 00:00:00 2021,微软此前已经推出了适用于 Android 的 Windows 子系统，但由于仅限美国测试用户使用，国区小伙伴无论是想要安装子系统 (Windows Subsystem for Android）还是安装安卓 App 都十分麻烦。,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585179_240.jpg
