@@ -1,4 +1,5 @@
 title,url,date,description,img
+微软 Win11 安卓子系统 1.8.32822 更新,https://www.ithome.com/0/585/641.htm,Tue Nov  9 09:05:08 2021,该子系统在 Hyper-V 虚拟机中运行，就像 Linux 子系统一样，可以将 AOSP 环境中 App 的运行时和 API 映射到 Windows 图形层、内存缓冲区、输入模式、物理和虚拟设备以及传感器,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585641_240.jpg
 新系统仍不够完美：盘点 Win11 的不尽如人意之处,https://www.ithome.com/0/585/494.htm,Tue Nov  9 07:05:08 2021,微软已经推送 Win11 正式版接近一个月了，Win10 中很多为人诟病已久的设计顽疾，在 Win11 中得到了有效解决。当前的 Win11 存在一些不尽如人意之处，今天就来简单聊聊吧,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585494_240.jpg
 不想被意外升级到微软 Win11，修改注册表让你保留在 Win10 系统,https://www.ithome.com/0/585/399.htm,Mon Nov  8 09:05:08 2021,微软在 Windows 10 版本 1803 或更高版本中引入了新的 TargetReleaseVersion 规范，它允许你设置希望操作系统升级到哪个版本或保持在哪个版本。,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585399_240.jpg
 微软 Win11 Dev 预览版出现奇怪 Bug：电量能充到 100% 以上,https://www.ithome.com/0/585/378.htm,Mon Nov  8 09:05:08 2021,众所周知，Dev 渠道的 Windows 系统同样都有许多 Bug，其中一些可能很有趣。近日，一些内部人员注意到 Win11 Dev 预览版 Build 22494 的一个奇特 Bug，Win11 错误地报告笔记本电脑的电量超过了 100%，这在物理上显然是不可能的，起码目前不可能,https://img.ithome.com/newsuploadfiles/thumbnail/2021/11/585378_240.jpg
