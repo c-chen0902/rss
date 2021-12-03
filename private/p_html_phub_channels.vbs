@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c E:\OneDrive\Python\my_rsshub\data\private/p_html_phub_channels.bat", 0
