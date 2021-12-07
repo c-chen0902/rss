@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[棋音视V 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/327324198</link>
-        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/327324198" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/327324198" rel="self" type="application/rss+xml" />
         <description><![CDATA[棋音视V 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,16 +14,16 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 09:05:54 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 07 Dec 2021 12:06:59 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
-            <title><![CDATA[再见  120]]></title>
+            <title><![CDATA[【60帧】GEM邓紫棋《孤独》我们的歌]]></title>
             <description><![CDATA[邓紫棋
-邓紫棋<br><br><iframe src="https://player.bilibili.com/player.html?aid=677174487&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/6e0379512cbeebf4fc324db5be0ff7b78982714c.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Tue, 07 Dec 2021 08:22:38 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV16U4y1N7LE</guid>
-            <link>https://www.bilibili.com/video/BV16U4y1N7LE</link>
+邓紫棋<br><br><iframe src="https://player.bilibili.com/player.html?aid=977212260&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/7289f33aaeedd24881d005397342a31c60bc7d20.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 07 Dec 2021 11:47:08 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1a44y1a7bX</guid>
+            <link>https://www.bilibili.com/video/BV1a44y1a7bX</link>
             
             
             

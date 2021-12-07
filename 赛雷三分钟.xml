@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[赛雷三分钟 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/26108626</link>
-        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/26108626" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/26108626" rel="self" type="application/rss+xml" />
         <description><![CDATA[赛雷三分钟 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 09:05:59 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 07 Dec 2021 11:25:28 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[一枝花就灭了30个物种，加拿大一枝黄花是何方神圣？]]></title>

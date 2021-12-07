@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[电影最TOP 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/17819768</link>
-        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/17819768" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/17819768" rel="self" type="application/rss+xml" />
         <description><![CDATA[电影最TOP 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 09:05:16 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 07 Dec 2021 10:34:06 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[电影最TOP：辱华界的“扛把子”——傅满洲]]></title>

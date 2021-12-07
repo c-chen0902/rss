@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[欧美纪westworld 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/431928552</link>
-        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/431928552" rel="self" type="application/rss+xml" />
+        <atom:link href="http://rsshub.app/bilibili/user/video/431928552" rel="self" type="application/rss+xml" />
         <description><![CDATA[欧美纪westworld 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,25 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 09:05:48 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 07 Dec 2021 12:06:53 GMT</lastBuildDate>
+        <ttl>120</ttl>
+        
+        <item>
+            <title><![CDATA[[双语]黄老板最新圣诞歌曲！联手Elton John新单《Merry Christmas》超清MV]]></title>
+            <description><![CDATA[youtube
+上一个圣诞节两人就计划着合作一首圣诞曲目，今年终于听到啦~温情中略带诙谐，穿着圣诞衣服的黄老板骚气满满。除此之外MV中还致敬了很多经典场面，圣诞节氛围感拉满了！<br><br><iframe src="https://player.bilibili.com/player.html?aid=507183951&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/e2097d0de308e54b8b684cc799a78cec2e1f0593.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 07 Dec 2021 10:00:12 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1hg411P7P9</guid>
+            <link>https://www.bilibili.com/video/BV1hg411P7P9</link>
+            
+            
+            
+            <author><![CDATA[欧美纪westworld]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[[双语]传奇哥John Legend圣诞新单You deserve it all超清MV，气氛好欢乐]]></title>
@@ -172,25 +189,6 @@ Netflix曝光了加菲Andrew Garfield主演的音乐剧电影《倒数时刻》�
             <pubDate>Sun, 28 Nov 2021 10:39:38 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV153411b7v7</guid>
             <link>https://www.bilibili.com/video/BV153411b7v7</link>
-            
-            
-            
-            <author><![CDATA[欧美纪westworld]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[加菲Andrew Garfield主演的新电影《倒数时刻》曝光新片段“Therapy”]]></title>
-            <description><![CDATA[Netflix
-Netflix曝光了加菲Andrew Garfield主演的新音乐剧电影《倒数时刻》的片段“Therapy”
-
-这部电影讲述了天才音乐剧乔纳森·拉森的故事。整部电影都使用的是乔纳森·拉森自己创作的音乐剧来诠释他一生的故事，关于梦想、爱情和友情。电影里的音乐每一首都超级好听～<br><br><iframe src="https://player.bilibili.com/player.html?aid=721956814&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/23919fe1384580553cb8233ba5a8427b07e3831c.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 27 Nov 2021 15:00:26 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1PS4y1X7ui</guid>
-            <link>https://www.bilibili.com/video/BV1PS4y1X7ui</link>
             
             
             
