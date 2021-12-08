@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[鹤老师说经济 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/493805437</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/493805437" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/493805437" rel="self" type="application/rss+xml" />
         <description><![CDATA[鹤老师说经济 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 14:30:04 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:05:28 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[美国的零元购是怎么回事]]></title>
+            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=379688104&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/b696c0f6a04cca5c8c6180cc998c03823de7c2fb.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 08 Dec 2021 01:34:30 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1xZ4y197PT</guid>
+            <link>https://www.bilibili.com/video/BV1xZ4y197PT</link>
+            
+            
+            
+            <author><![CDATA[鹤老师说经济]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[索赔三万的刮丝器]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Mon, 22 Nov 2021 01:32:50 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1ug411N7Hw</guid>
             <link>https://www.bilibili.com/video/BV1ug411N7Hw</link>
-            
-            
-            
-            <author><![CDATA[鹤老师说经济]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[年轻人的赚钱机会在哪？]]></title>
-            <description><![CDATA[<br><br><iframe src="https://player.bilibili.com/player.html?aid=891774167&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/50ffd1cc4702f013ca32c56e07c2a2fe327396f2.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 20 Nov 2021 03:11:45 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1ZP4y157gs</guid>
-            <link>https://www.bilibili.com/video/BV1ZP4y157gs</link>
             
             
             

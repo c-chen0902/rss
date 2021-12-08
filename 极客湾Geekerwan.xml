@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[极客湾Geekerwan 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/25876945</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/25876945" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/25876945" rel="self" type="application/rss+xml" />
         <description><![CDATA[极客湾Geekerwan 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 15:06:46 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:05:33 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[苹果M1 Pro/M1 Max评测，真的只能剪视频？]]></title>
+            <description><![CDATA[和各位聊聊今年最令飘哥印象深刻的笔记本，看看M1 Max究竟有几成功力<br><br><iframe src="https://player.bilibili.com/player.html?aid=764739131&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/c29c82c6dd25e96b3c4aebb46ab9229f4b76614c.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 07 Dec 2021 17:11:00 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1or4y1S7Uh</guid>
+            <link>https://www.bilibili.com/video/BV1or4y1S7Uh</link>
+            
+            
+            
+            <author><![CDATA[极客湾Geekerwan]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[抽奖时间！顺便来聊一聊轻薄本]]></title>
@@ -154,22 +170,6 @@
             <pubDate>Wed, 29 Sep 2021 04:05:09 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1tq4y1P7bJ</guid>
             <link>https://www.bilibili.com/video/BV1tq4y1P7bJ</link>
-            
-            
-            
-            <author><![CDATA[极客湾Geekerwan]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[这台手机散热真不错！realme GT Neo 2上手体验]]></title>
-            <description><![CDATA[今天我们拿到了一台新手机——realme GT Neo 2，据说散热很不错哦，到底表现如何？一起来上手体验一下吧……<br><br><iframe src="https://player.bilibili.com/player.html?aid=718217764&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/fd7a74776846533d25bed51aa5861dd72dcaa4a0.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sun, 26 Sep 2021 14:52:04 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1VQ4y1C7r3</guid>
-            <link>https://www.bilibili.com/video/BV1VQ4y1C7r3</link>
             
             
             

@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[电影最TOP 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/17819768</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/17819768" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/17819768" rel="self" type="application/rss+xml" />
         <description><![CDATA[电影最TOP 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 14:47:31 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:05:17 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[细读经典：当年上映时票房惨得一批，被严重忽视的科幻神作《千钧一发》]]></title>
+            <description><![CDATA[本期咱来聊聊1997年，由安德鲁•尼科尔导演，伊桑·霍克、乌玛·瑟曼、裘德·洛主演的科幻惊悚片《千钧一发》<br><br><iframe src="https://player.bilibili.com/player.html?aid=892141920&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/60ca4c4e031066381ee791d0a1dbf2dc48e286c9.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 08 Dec 2021 12:45:19 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1zP4y137Vx</guid>
+            <link>https://www.bilibili.com/video/BV1zP4y137Vx</link>
+            
+            
+            
+            <author><![CDATA[电影最TOP]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[电影最TOP：辱华界的“扛把子”——傅满洲]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Wed, 03 Nov 2021 12:45:09 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1Gq4y1V7DR</guid>
             <link>https://www.bilibili.com/video/BV1Gq4y1V7DR</link>
-            
-            
-            
-            <author><![CDATA[电影最TOP]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[电影最TOP：一口气看完《007》系列（24部正传+2部外传）]]></title>
-            <description><![CDATA[007大盘鸡来喽！<br><br><iframe src="https://player.bilibili.com/player.html?aid=976280610&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/db89dc7984a0ee3ee8a8cf819ef0d0976e74bae1.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Wed, 27 Oct 2021 12:45:14 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1q44y1v7ea</guid>
-            <link>https://www.bilibili.com/video/BV1q44y1v7ea</link>
             
             
             

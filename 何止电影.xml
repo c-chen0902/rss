@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[何止电影 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/270355850</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/270355850" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/270355850" rel="self" type="application/rss+xml" />
         <description><![CDATA[何止电影 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 15:06:43 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:05:22 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[《教父》系列终章！世上的一切权力都无法改变命运【何止电影】《教父3》]]></title>
+            <description><![CDATA[深度解说经典电影《教父3》<br><br><iframe src="https://player.bilibili.com/player.html?aid=209738354&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/573afc9f7e63f2286c95d480b20537ca44ff0440.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 08 Dec 2021 10:00:15 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1Ea411r74V</guid>
+            <link>https://www.bilibili.com/video/BV1Ea411r74V</link>
+            
+            
+            
+            <author><![CDATA[何止电影]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[是处女作，也是遗作！这部国产片，不适合所有人看【何止电影】]]></title>
@@ -151,22 +167,6 @@
             <pubDate>Mon, 15 Nov 2021 10:10:05 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1NF411h7Nb</guid>
             <link>https://www.bilibili.com/video/BV1NF411h7Nb</link>
-            
-            
-            
-            <author><![CDATA[何止电影]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[拍给成年人看的电影，每一帧都是绝版！【何止电影】《风柜来的人》]]></title>
-            <description><![CDATA[深度解说侯孝贤导演作品《风柜来的人》<br><br><iframe src="https://player.bilibili.com/player.html?aid=934054645&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/d09b03781c75bf66157ce5d51a535b8e23c61fec.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Fri, 12 Nov 2021 10:00:00 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV14T4y197TF</guid>
-            <link>https://www.bilibili.com/video/BV14T4y197TF</link>
             
             
             

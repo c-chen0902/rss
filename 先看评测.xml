@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[先看评测 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/483311105</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/483311105" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/483311105" rel="self" type="application/rss+xml" />
         <description><![CDATA[先看评测 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 13:39:48 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:06:06 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[屏幕居然能打印了？探秘低调的中国顶级面板工厂]]></title>

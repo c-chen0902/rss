@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[音乐私藏馆 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/229733301</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/229733301" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/229733301" rel="self" type="application/rss+xml" />
         <description><![CDATA[音乐私藏馆 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,31 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 15:08:03 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:06:16 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【4K60FPS】五月天《你不是真正的快乐》核能现场！重新开始活着！]]></title>
+            <description><![CDATA[官方演唱会
+原文档提取制作，进行了重新制作
+前几天阿信生日，但是我没有看到新闻
+我在大学的很长一段时间里，很热爱五月天
+到现在依然还记得2008年听到这首歌的场景
+所以五月天对于我来说，真的很重要，特别是这首歌
+前几天说自己失恋的小伙伴别伤心
+祝大家都能重新开始活着<br><br><iframe src="https://player.bilibili.com/player.html?aid=422130684&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i2.hdslb.com/bfs/archive/8587ccd716c66f44a494b3101a3d0777a4095290.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 08 Dec 2021 11:26:38 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1h341147Et</guid>
+            <link>https://www.bilibili.com/video/BV1h341147Et</link>
+            
+            
+            
+            <author><![CDATA[音乐私藏馆]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【4K60FPS】许嵩《断桥残雪》中国风现场！一开口就泪目！]]></title>
@@ -206,27 +229,6 @@ Back to December+Apologize+You're not sorry的现场
             <pubDate>Tue, 16 Nov 2021 10:52:27 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1n341187fx</guid>
             <link>https://www.bilibili.com/video/BV1n341187fx</link>
-            
-            
-            
-            <author><![CDATA[音乐私藏馆]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【4K60FPS】艾薇儿《When You're Gone》神级现场！一开口就泪目！]]></title>
-            <description><![CDATA[官方演唱会现场
-原盘提取制作，进行了调整
-前几天看到群里在谈艾薇儿新歌的时候
-我真的好感动，因为我好喜欢她，所有的黑胶都买了
-当然《When You're Gone》这首歌是很多人的青春回忆
-双语字幕制作，双语翻译，祝大家开心<br><br><iframe src="https://player.bilibili.com/player.html?aid=421673372&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/53400e19efc2aad90fa9863fa8e2c78b3755f912.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Sat, 13 Nov 2021 10:37:07 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1h3411879L</guid>
-            <link>https://www.bilibili.com/video/BV1h3411879L</link>
             
             
             

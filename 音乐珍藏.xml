@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[音乐珍藏 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/702300153</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/702300153" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/702300153" rel="self" type="application/rss+xml" />
         <description><![CDATA[音乐珍藏 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,16 +14,16 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 15:08:15 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:06:27 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[英伦摇滚四巨头. 顶级现场. 轮番轰炸。Blur模糊乐队Oasis绿洲乐队Suede山羊皮乐队Pulp纸浆乐队]]></title>
             <description><![CDATA[演唱曲目：
-1：Blur——《Song&nbsp;2》
+1：Blur——《Song 2》
 2：Oasis——《Wonderwall》
 3：Suede——《》
-4：Pulp——《Common&nbsp;People》
+4：Pulp——《Common People》
 （Radiohead/Coldplay等通常被划为后英伦摇滚，所以没有纳入）<br><br><iframe src="https://player.bilibili.com/player.html?aid=506939091&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/61c677af23589ecd4e9265e83ebe6e6127787e9b.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 25 Nov 2021 11:02:40 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV11g411N7kz</guid>
@@ -41,9 +41,9 @@
         <item>
             <title><![CDATA[共和时代. 金曲现场合集. 顶级视听盛宴。OneRepublic。]]></title>
             <description><![CDATA[演唱曲目：
-1：Love&nbsp;Runs&nbsp;Out
+1：Love Runs Out
 2：Secrets
-3：Counting&nbsp;Stars
+3：Counting Stars
 4：Apologize<br><br><iframe src="https://player.bilibili.com/player.html?aid=379450138&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/b492bae6a67af0d00ac00a899f1970f1ad1254e5.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 24 Nov 2021 10:00:15 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1bf4y1K7hB</guid>
@@ -110,11 +110,11 @@ BGFilm：迷失东京<br><br><iframe src="https://player.bilibili.com/player.htm
         <item>
             <title><![CDATA[Eminem阿姆. 金曲合集。高能现场。]]></title>
             <description><![CDATA[演唱曲目：
-1：Not&nbsp;Afraid
+1：Not Afraid
 2：Stan
-3：Rap&nbsp;God
-4：Love&nbsp;The&nbsp;Way&nbsp;You&nbsp;Lie
-5：Lose&nbsp;Yourself<br><br><iframe src="https://player.bilibili.com/player.html?aid=634260161&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/e33e255589ae40c317406b726515108a39faf8cf.jpg" referrerpolicy="no-referrer">]]></description>
+3：Rap God
+4：Love The Way You Lie
+5：Lose Yourself<br><br><iframe src="https://player.bilibili.com/player.html?aid=634260161&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i0.hdslb.com/bfs/archive/e33e255589ae40c317406b726515108a39faf8cf.jpg" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 18 Nov 2021 10:15:43 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV1cb4y1b7Qv</guid>
             <link>https://www.bilibili.com/video/BV1cb4y1b7Qv</link>

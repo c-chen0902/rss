@@ -5,7 +5,7 @@
     <channel>
         <title><![CDATA[60帧音乐君 的 bilibili 空间]]></title>
         <link>https://space.bilibili.com/696160102</link>
-        <atom:link href="http://rsshub.app/bilibili/user/video/696160102" rel="self" type="application/rss+xml" />
+        <atom:link href="http://192.168.68.101:1200/bilibili/user/video/696160102" rel="self" type="application/rss+xml" />
         <description><![CDATA[60帧音乐君 的 bilibili 空间 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -14,8 +14,28 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 07 Dec 2021 14:05:47 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Wed, 08 Dec 2021 15:05:06 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[【8K60FPS】IU《Blueming》MV 8K收藏级画质]]></title>
+            <description><![CDATA[官方MV。画面重制，字幕重制。
+第一次做8K视频，仿佛听见CPU和显卡的咆哮。。
+
+我是音乐君
+祝你幸福<br><br><iframe src="https://player.bilibili.com/player.html?aid=294740191&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/78d5dfb7e536ab6e91018cfefabda37b4e146c82.jpg" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 08 Dec 2021 02:47:34 GMT</pubDate>
+            <guid isPermaLink="false">https://www.bilibili.com/video/BV1EF411z7nP</guid>
+            <link>https://www.bilibili.com/video/BV1EF411z7nP</link>
+            
+            
+            
+            <author><![CDATA[60帧音乐君]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[【4K60FPS】年轻的霉霉《Fearless》精彩现场！为爱无所畏惧！]]></title>
@@ -194,24 +214,6 @@
             <pubDate>Tue, 30 Nov 2021 02:47:58 GMT</pubDate>
             <guid isPermaLink="false">https://www.bilibili.com/video/BV12i4y1o7rr</guid>
             <link>https://www.bilibili.com/video/BV12i4y1o7rr</link>
-            
-            
-            
-            <author><![CDATA[60帧音乐君]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[【4K修复】少年的一声《Baby》，标志着一位巨星的诞生！]]></title>
-            <description><![CDATA[youtube。画面重制。字幕重制。
-《Baby》是加拿大男歌手贾斯汀·比伯演唱的一首流行歌曲，歌词、曲谱由贾斯汀·比伯、卢达·克里斯、The-Dream、Tricky Stewart、克里斯蒂娜·米兰制作完成 。该歌曲作为推广其所属专辑的首波单曲，于2010年1月18日通过小岛唱片公司发布，收录在贾斯汀·比伯于2010年1月18日发行的首张录音室专辑《My World 2.0》。
-《Baby》是一首中快节奏的流行歌曲（说唱部分由卢达·克里斯担任），融入了Teen pop、Dance-pop、节奏蓝调以及<br><br><iframe src="https://player.bilibili.com/player.html?aid=336955762&high_quality=1" width="650" height="477" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe><br><img src="http://i1.hdslb.com/bfs/archive/13ec57cdf135eccc06ca8254ca1152546d3434be.jpg" referrerpolicy="no-referrer">]]></description>
-            <pubDate>Mon, 29 Nov 2021 03:11:43 GMT</pubDate>
-            <guid isPermaLink="false">https://www.bilibili.com/video/BV1GR4y147q7</guid>
-            <link>https://www.bilibili.com/video/BV1GR4y147q7</link>
             
             
             
