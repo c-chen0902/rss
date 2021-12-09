@@ -1,1 +1,1 @@
-"C:\Users\cchen\AppData\Local\Programs\Python\Python39\python.exe" "E:\OneDrive\Python\my_rsshub\data\private\p_html_phub_stars.py"
+"C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe" "E:\OneDrive\Python\my_rsshub\data\private\p_html_phub_stars.py"
