@@ -1,0 +1,436 @@
+
+<!-- saved from url=(0071)https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod1 -->
+<html><script id="allow-copy_script">(function agent() {
+    let unlock = false
+    document.addEventListener('allow_copy', (event) => {
+      unlock = event.detail.unlock
+    })
+
+    const copyEvents = [
+      'copy',
+      'cut',
+      'contextmenu',
+      'selectstart',
+      'mousedown',
+      'mouseup',
+      'mousemove',
+      'keydown',
+      'keypress',
+      'keyup',
+    ]
+    const rejectOtherHandlers = (e) => {
+      if (unlock) {
+        e.stopPropagation()
+        if (e.stopImmediatePropagation) e.stopImmediatePropagation()
+      }
+    }
+    copyEvents.forEach((evt) => {
+      document.documentElement.addEventListener(evt, rejectOtherHandlers, {
+        capture: true,
+      })
+    })
+  })()</script><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>MethPrimer Results - MethPrimer - Li Lab, PUMCH</title>
+<!--<base target="_self">--><base href="." target="_self">
+<!--<STYLE TYPE="text/css">
+  body { font-size: 10pt; font-family: Verdana }
+  td   { font-size: 10pt; font-family: Verdana }
+  H3 { font-size: 12pt; color: blue }
+</STYLE>-->
+<meta name="x-ce-data" ceid="anmbbeeiaollmpadookgoakpfjkbidaf" content="Jey3mSO9JKXbkshVoFB5v6qlxP5d0HhY4kB414xXI4tfbVMDcbmHzZuIuVGspZZo"><style type="text/css">#htmlToothbrush #bodyToothbrush .parentToothbrush .bilibili-player-video {margin:0 !important;}
+#htmlToothbrush, #bodyToothbrush {overflow:hidden !important;zoom:100% !important;}
+#htmlToothbrush #bodyToothbrush .parentToothbrush {overflow:visible !important;z-index:auto !important;transform:none !important;-webkit-transform-style:flat !important;transition:none !important;contain:none !important;}
+#htmlToothbrush #bodyToothbrush .absoluteToothbrush {position:absolute !important;}
+#htmlToothbrush #bodyToothbrush .playerToothbrush {position:fixed !important;top:0px !important;left:0px !important;width:100vw !important;height:100vh !important;max-width:none !important;max-height:none !important;min-width:0 !important;min-height:0 !important;margin:0 !important;padding:0 !important;z-index:2147483646 !important;border:none !important;background-color:#000 !important;transform:none !important;}
+#htmlToothbrush #bodyToothbrush .parentToothbrush video {object-fit:contain !important;}
+#htmlToothbrush #bodyToothbrush .parentToothbrush .videoToothbrush {width:100vw !important;height:100vh !important;}
+#playerControlBtn {text-shadow: none;visibility:hidden;opacity:0;display:none;transition: all 0.5s ease;cursor: pointer;font: 12px "&#24494;&#36719;&#38597;&#40657;";margin:0;width:64px;height:20px;line-height:20px;border:none;text-align: center;position: fixed;z-index:2147483647;background-color: #27A9D8;color: #FFF;} #playerControlBtn:hover {visibility:visible;opacity:1;background-color:#2774D8;}
+#picinpicBtn {text-shadow: none;visibility:hidden;opacity:0;display:none;transition: all 0.5s ease;cursor: pointer;font: 12px "&#24494;&#36719;&#38597;&#40657;";margin:0;width:53px;height:20px;line-height:20px;border:none;text-align: center;position: fixed;z-index:2147483647;background-color: #27A9D8;color: #FFF;} #picinpicBtn:hover {visibility:visible;opacity:1;background-color:#2774D8;}
+#leftFullStackButton{display:none;position:fixed;width:1px;height:100vh;top:0;left:0;z-index:2147483647;background:#000;}
+#rightFullStackButton{display:none;position:fixed;width:1px;height:100vh;top:0;right:0;z-index:2147483647;background:#000;}</style></head>
+
+<body bgcolor="ffffff">
+<div id="overDiv" style="position: absolute; visibility: hidden; z-index: 1000; background-image: none; left: 577px; top: 287px;"><table width="200" border="0" cellpadding="1" cellspacing="0" bgcolor="#333399"><tbody><tr><td><table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><b><font color="#FFFFFF" face="Verdana" size="2">Product</font></b></td></tr></tbody></table><table width="100%" border="0" cellpadding="2" cellspacing="0" bgcolor="#CCCCFF"><tbody><tr><td valign="TOP"><font color="#000000" face="Verdana" size="2">140 bp (from 1740 to 1879)</font></td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<script language="JavaScript" src="./CT83-MSP_files/overlib.js"><!-- overLIB (c) Erik Bosrup -->
+</script>
+  <h3>MethPrimer result</h3>
+  Please cite MethPrimer: Li LC and Dahiya R. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12424112" target="_blank">MethPrimer: designing primers for methylation PCRs</a>. 
+Bioinformatics. 2002 Nov;18(11):1427-31. <br>PMID: <a href="http://www.ncbi.nlm.nih.gov/pubmed/12424112">12424112</a><br<br>
+ <hr>
+<map name="map"><area href="javascript:void(0);" shape="rect" coords="30,110, 630, 114" onmouseover="return overlib(&#39;Your input sequence (2001 bp).&#39;, CAPTION, &#39;Sequence&#39;);" onmouseout="return nd();">
+<area href="javascript:void(0);" shape="polygon" coords="351 66 352 66 352 65 352 65 352 65 353 64 353 64 353 63 354 62 354 62 354 61 355 61 355 61 355 60 355 60 356 59 356 60 356 59 357 58 357 57 357 56 358 56 358 55 358 55 358 55 359 55 359 55 359 56 360 55 360 55 360 56 361 56 361 55 361 56 361 55 362 55 362 55 362 56 363 55 363 56 363 57 364 56 364 57 364 56 364 55 365 56 365 57 365 57 366 57 366 57 366 56 367 56 367 56 367 55 367 56 368 56 368 56 368 55 369 54 369 54 369 54 370 55 370 55 370 56 370 56 371 55 371 54 371 55 372 54 372 53 372 53 373 53 373 53 373 53 373 53 374 53 374 53 374 53 375 54 375 54 375 54 376 54 376 54 376 55 376 56 377 56 377 55 377 56 378 55 378 55 378 54 379 55 379 55 379 56 379 57 380 57 380 57 380 56 381 57 381 58 381 58 382 59 382 60 382 109 351 109" onmouseover="return overlib(&#39;CpG island (from 1073-1175).&#39;, CAPTION, &#39;CpG island&#39;);" onmouseout="return nd();">
+<area href="javascript:void(0);" shape="polygon" coords="552 61 552 60 552 60 553 60 553 60 553 59 554 59 554 59 554 59 555 59 555 59 555 60 555 61 556 61 556 61 556 61 557 60 557 61 557 61 558 60 558 61 558 61 558 61 559 62 559 62 559 62 560 62 560 62 560 61 561 61 561 60 561 60 561 59 562 59 562 58 562 59 563 58 563 58 563 57 564 57 564 57 564 56 564 56 565 56 565 57 565 56 566 55 566 54 566 55 567 55 567 54 567 54 567 53 568 53 568 54 568 54 569 54 569 53 569 54 570 53 570 53 570 52 570 52 571 53 571 52 571 53 572 53 572 52 572 51 573 51 573 51 573 51 573 51 574 52 574 51 574 51 575 51 575 50 575 49 576 48 576 49 576 49 576 49 577 50 577 51 577 52 578 53 578 54 578 53 579 53 579 53 579 52 579 51 580 51 580 51 580 52 581 53 581 53 581 54 582 53 582 54 582 54 582 55 583 56 583 56 583 57 584 58 584 57 584 56 585 55 585 55 585 54 585 54 586 55 586 55 586 54 587 55 587 54 587 53 588 54 588 53 588 53 588 52 589 52 589 52 589 52 590 51 590 52 590 52 591 52 591 52 591 51 591 51 592 52 592 53 592 53 593 53 593 54 593 55 594 56 594 56 594 56 594 56 595 56 595 56 595 57 596 58 596 58 596 57 597 58 597 58 597 58 597 58 598 57 598 56 598 55 599 55 599 56 599 55 600 56 600 55 600 109 552 109" onmouseover="return overlib(&#39;CpG island (from 1742-1902).&#39;, CAPTION, &#39;CpG island&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#1" shape="rect" coords="551 140 558 150" onmouseover="return overlib(&#39;25 bp (from 1738 to 1762)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#1" shape="rect" coords="586 140 593 150" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod1" shape="rect" coords="551 140 593 150" onmouseover="return overlib(&#39;142 bp (from 1738 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#1" shape="rect" coords="551 160 558 170" onmouseover="return overlib(&#39;25 bp (from 1740 to 1764)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#1" shape="rect" coords="586 160 593 170" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod1" shape="rect" coords="551 160 593 170" onmouseover="return overlib(&#39;140 bp (from 1740 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#2" shape="rect" coords="551 185 558 195" onmouseover="return overlib(&#39;25 bp (from 1738 to 1762)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#2" shape="rect" coords="586 185 593 195" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod2" shape="rect" coords="551 185 593 195" onmouseover="return overlib(&#39;142 bp (from 1738 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#2" shape="rect" coords="551 205 558 215" onmouseover="return overlib(&#39;26 bp (from 1738 to 1763)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#2" shape="rect" coords="586 205 593 215" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod2" shape="rect" coords="551 205 593 215" onmouseover="return overlib(&#39;142 bp (from 1738 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#3" shape="rect" coords="551 230 558 240" onmouseover="return overlib(&#39;25 bp (from 1738 to 1762)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#3" shape="rect" coords="586 230 593 240" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod3" shape="rect" coords="551 230 593 240" onmouseover="return overlib(&#39;142 bp (from 1738 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#3" shape="rect" coords="551 250 558 260" onmouseover="return overlib(&#39;26 bp (from 1739 to 1764)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#3" shape="rect" coords="586 250 593 260" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod3" shape="rect" coords="551 250 593 260" onmouseover="return overlib(&#39;141 bp (from 1739 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#4" shape="rect" coords="551 275 558 285" onmouseover="return overlib(&#39;25 bp (from 1738 to 1762)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#4" shape="rect" coords="586 275 593 285" onmouseover="return overlib(&#39;24 bp (from 1878 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod4" shape="rect" coords="551 275 593 285" onmouseover="return overlib(&#39;141 bp (from 1738 to 1878)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#4" shape="rect" coords="551 295 558 305" onmouseover="return overlib(&#39;25 bp (from 1740 to 1764)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#4" shape="rect" coords="586 295 593 305" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod4" shape="rect" coords="551 295 593 305" onmouseover="return overlib(&#39;140 bp (from 1740 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#5" shape="rect" coords="550 320 557 330" onmouseover="return overlib(&#39;26 bp (from 1737 to 1762)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#5" shape="rect" coords="586 320 593 330" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod5" shape="rect" coords="550 320 593 330" onmouseover="return overlib(&#39;143 bp (from 1737 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#5" shape="rect" coords="551 340 558 350" onmouseover="return overlib(&#39;25 bp (from 1740 to 1764)&#39;, CAPTION, &#39;Forward primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#5" shape="rect" coords="586 340 593 350" onmouseover="return overlib(&#39;25 bp (from 1879 to 1855)&#39;, CAPTION, &#39;Reverse primer&#39;);" onmouseout="return nd();">
+<area href="https://www.urogene.org/cgi-bin/methprimer/methprimer_results.cgi#prod5" shape="rect" coords="551 340 593 350" onmouseover="return overlib(&#39;140 bp (from 1740 to 1879)&#39;, CAPTION, &#39;Product&#39;);" onmouseout="return nd();">
+</map><img src="./CT83-MSP_files/1712058014.png" usemap="#map"><pre>
+Sequence Name: 
+Sequence Length: 2001
+
+CpG island prediction results
+Criteria used: Island size &gt; 100, GC Percent &gt; 50.0, Obs/Exp &gt; 0.60
+ 2 CpG island(s) were found in your sequence
+            Size	(Start - End)
+ Island 1   103 bp	 (1073 - 1175)
+ Island 2   161 bp	 (1742 - 1902)
+
+Primer picking results for methylation specific PCR (MSP)
+   
+   Primer            Start Size  Tm      GC%   'C's  Sequence
+1  <a name="#1">Left</a>  M primer    1738   25   57.54   48.00   4  AGGATTTGAAATTAATTAGGTAGGC
+   Right M primer    1879   25   58.22   60.00   7  CTTTATATACGACTAAAAACGCGAA
+   Product size: 142, Tm: 60.0
+   Left  U primer    1740   25   56.62   52.00   4  GATTTGAAATTAATTAGGTAGGTGG
+   Right U primer    1879   25   50.23   60.00   7  CTTTATATACAACTAAAAACACAAA
+   Product size: 140, Tm: 59.7
+2  <a name="#2">Left</a>  M primer    1738   25   57.54   48.00   4  AGGATTTGAAATTAATTAGGTAGGC
+   Right M primer    1879   25   58.22   60.00   7  CTTTATATACGACTAAAAACGCGAA
+   Product size: 142, Tm: 60.0
+   Left  U primer    1738   26   57.48   50.00   4  AGGATTTGAAATTAATTAGGTAGGTG
+   Right U primer    1879   25   50.23   60.00   7  CTTTATATACAACTAAAAACACAAA
+   Product size: 142, Tm: 60.0
+3  <a name="#3">Left</a>  M primer    1738   25   57.54   48.00   4  AGGATTTGAAATTAATTAGGTAGGC
+   Right M primer    1879   25   58.22   60.00   7  CTTTATATACGACTAAAAACGCGAA
+   Product size: 142, Tm: 60.0
+   Left  U primer    1739   26   59.50   53.85   4  GGATTTGAAATTAATTAGGTAGGTGG
+   Right U primer    1879   25   50.23   60.00   7  CTTTATATACAACTAAAAACACAAA
+   Product size: 141, Tm: 59.7
+4  <a name="#4">Left</a>  M primer    1738   25   57.54   48.00   4  AGGATTTGAAATTAATTAGGTAGGC
+   Right M primer    1878   24   57.37   58.33   7  TTTATATACGACTAAAAACGCGAA
+   Product size: 141, Tm: 59.7
+   Left  U primer    1740   25   56.62   52.00   4  GATTTGAAATTAATTAGGTAGGTGG
+   Right U primer    1879   25   50.23   60.00   7  CTTTATATACAACTAAAAACACAAA
+   Product size: 140, Tm: 59.7
+5  <a name="#5">Left</a>  M primer    1737   26   58.64   46.15   4  AAGGATTTGAAATTAATTAGGTAGGC
+   Right M primer    1879   25   58.22   60.00   7  CTTTATATACGACTAAAAACGCGAA
+   Product size: 143, Tm: 60.3
+   Left  U primer    1740   25   56.62   52.00   4  GATTTGAAATTAATTAGGTAGGTGG
+   Right U primer    1879   25   50.23   60.00   7  CTTTATATACAACTAAAAACACAAA
+   Product size: 140, Tm: 59.7
+
+    1 TAAAATCTTTCAATGCTCTATTCAAATTTGTCTTCATTTGTACTTCCTAGACTGACATGA
+      ||||||:|||:||||:|:||||:||||||||:||:|||||||:||::||||:|||:||||
+    1 TAAAATTTTTTAATGTTTTATTTAAATTTGTTTTTATTTGTATTTTTTAGATTGATATGA
+                                                                  
+                                                                  
+
+   61 AGAAATTTCTTTTATATCTAAAATTTCAATTATGATTTATATGTAGATGACTCACAAATT
+      ||||||||:||||||||:||||||||:|||||||||||||||||||||||:|:|:|||||
+   61 AGAAATTTTTTTTATATTTAAAATTTTAATTATGATTTATATGTAGATGATTTATAAATT
+                                                                  
+                                                                  
+
+  121 TATGTCTTGGCTTATCTCCCTGGGAGCATTTATTTCATGTCTCAAAGCCACCTCAAACTG
+      |||||:||||:||||:|:::||||||:||||||||:||||:|:||||::|::|:|||:||
+  121 TATGTTTTGGTTTATTTTTTTGGGAGTATTTATTTTATGTTTTAAAGTTATTTTAAATTG
+                                                                  
+                                                                  
+
+  181 CATTTGTCCAAGACTAAATTCATGACCAGCAACTCCATACTTTTTTATCTCCTATTCATC
+      :||||||::||||:||||||:||||::||:||:|::|||:||||||||:|::||||:||:
+  181 TATTTGTTTAAGATTAAATTTATGATTAGTAATTTTATATTTTTTTATTTTTTATTTATT
+                                                                  
+                                                                  
+
+  241 CAATTGAGTAAGCCATAAAGCCAGGAACTTCACTCCTCTTTAGATCCTATATTCTATTAT
+      :|||||||||||::||||||::|||||:||:|:|::|:|||||||::||||||:||||||
+  241 TAATTGAGTAAGTTATAAAGTTAGGAATTTTATTTTTTTTTAGATTTTATATTTTATTAT
+                                                                  
+                                                                  
+
+  301 GAGCTCCCACACCACCAGGTACTTTTTGGTACCATTTATCTCAGCACTTTCACATACATT
+      |||:|:::|:|::|::|||||:|||||||||::||||||:|:||:|:|||:|:|||:|||
+  301 GAGTTTTTATATTATTAGGTATTTTTTGGTATTATTTATTTTAGTATTTTTATATATATT
+                                                                  
+                                                                  
+
+  361 TCTGTATTTGATTAATGTCTGCCTCTTAAACTAGAGTGCACATTCCAGGTGGAGAAAGAC
+      |:||||||||||||||||:||::|:|||||:|||||||:|:|||::|||||||||||||:
+  361 TTTGTATTTGATTAATGTTTGTTTTTTAAATTAGAGTGTATATTTTAGGTGGAGAAAGAT
+                                                                  
+                                                                  
+
+  421 TTTATTTTTGCTTATAATCAGATTCTTAAAATACAGAACAGTGTCTAGTATATAAGTGTT
+      ||||||||||:|||||||:|||||:||||||||:||||:|||||:|||||||||||||||
+  421 TTTATTTTTGTTTATAATTAGATTTTTAAAATATAGAATAGTGTTTAGTATATAAGTGTT
+                                                                  
+                                                                  
+
+  481 TAATAAATATTCATTGAATCAATAAAACTTTAAGCTTTGTACTCATAACTAGGAAATGGT
+      |||||||||||:|||||||:|||||||:||||||:||||||:|:||||:|||||||||||
+  481 TAATAAATATTTATTGAATTAATAAAATTTTAAGTTTTGTATTTATAATTAGGAAATGGT
+                                                                  
+                                                                  
+
+  541 GTGATATGAAAAAAATTAAAAATGTAATTTCTCCCCTTCCCATCTATATGAAGATGAGGG
+      ||||||||||||||||||||||||||||||:|::::||:::||:||||||||||||||||
+  541 GTGATATGAAAAAAATTAAAAATGTAATTTTTTTTTTTTTTATTTATATGAAGATGAGGG
+                                                                  
+                                                                  
+
+  601 TTGTTTACCTAGCAGAGTTACTGGATTGCATTTGGGCACTCACCTTAAGATTACCGTGGG
+      |||||||::|||:|||||||:|||||||:|||||||:|:|:|::|||||||||:++||||
+  601 TTGTTTATTTAGTAGAGTTATTGGATTGTATTTGGGTATTTATTTTAAGATTATCGTGGG
+                                                                  
+                                                                  
+
+  661 TATTATTTTTAGTTCCAGGTCTTTAGGTCAGTGTCATAGTCTACATTTAACTGAATTTCC
+      ||||||||||||||::||||:|||||||:|||||:|||||:||:||||||:|||||||::
+  661 TATTATTTTTAGTTTTAGGTTTTTAGGTTAGTGTTATAGTTTATATTTAATTGAATTTTT
+                                                                  
+                                                                  
+
+  721 TGAACATTTCTAACCTGTCTAGTGCAATTATTTCTGTATGTGTTACGTCCCATTAATACA
+      ||||:||||:|||::|||:|||||:||||||||:|||||||||||++|:::|||||||:|
+  721 TGAATATTTTTAATTTGTTTAGTGTAATTATTTTTGTATGTGTTACGTTTTATTAATATA
+                                                                  
+                                                                  
+
+  781 ACTCCAAATACAATGTTCAGTACCTTGGTAGGAGAATATAAAATACTTCATGCTCACAAA
+      |:|::|||||:||||||:||||::|||||||||||||||||||||:||:|||:|:|:|||
+  781 ATTTTAAATATAATGTTTAGTATTTTGGTAGGAGAATATAAAATATTTTATGTTTATAAA
+                                                                  
+                                                                  
+
+  841 TCAGAGTGGAGGTGGAGATCATGTGTATAAGGAGGAGAATGGGGGAGTTTATCTCAGAGC
+      |:|||||||||||||||||:||||||||||||||||||||||||||||||||:|:||||:
+  841 TTAGAGTGGAGGTGGAGATTATGTGTATAAGGAGGAGAATGGGGGAGTTTATTTTAGAGT
+                                                                  
+                                                                  
+
+  901 TCAAACTCCATGGATTCAAGTCCTGCTTTTGCTATTAGTTTCAAATGAATTTAACACCTG
+      |:|||:|::|||||||:||||::||:|||||:|||||||||:||||||||||||:|::||
+  901 TTAAATTTTATGGATTTAAGTTTTGTTTTTGTTATTAGTTTTAAATGAATTTAATATTTG
+                                                                  
+                                                                  
+
+  961 AATCTGTTTCCACATTTGCAAAAATAGACATAGTAAAAATACCTTGGCTCTGGAGAACCA
+      |||:|||||::|:|||||:|||||||||:||||||||||||::||||:|:|||||||::|
+  961 AATTTGTTTTTATATTTGTAAAAATAGATATAGTAAAAATATTTTGGTTTTGGAGAATTA
+                                                                  
+                                                                  
+
+ 1021 AACACCACATGTTTTCACTTATAAGTAGGAGCTAGTGAGAGCTGAACGATGAGAACACAT
+      ||:|::|:|||||||:|:|||||||||||||:|||||||||:||||++|||||||:|:||
+ 1021 AATATTATATGTTTTTATTTATAAGTAGGAGTTAGTGAGAGTTGAACGATGAGAATATAT
+                                                                  
+                                                                  
+
+ 1081 GACACATAGTAAGGGGTAACAAAACGCACTGTGGCCTGTGGGGGGCGGCGGGATCGGTGG
+      ||:|:||||||||||||||:||||++:|:|||||::|||||||||++|++||||++||||
+ 1081 GATATATAGTAAGGGGTAATAAAACGTATTGTGGTTTGTGGGGGGCGGCGGGATCGGTGG
+                                                                  
+                                                                  
+
+ 1141 GGAGGAAGAGCATCAGGAAGAACAGCTAATGGGTGTTGGGGTAATAGGTGCTGGGCTTAA
+      ||||||||||:||:||||||||:||:||||||||||||||||||||||||:||||:||||
+ 1141 GGAGGAAGAGTATTAGGAAGAATAGTTAATGGGTGTTGGGGTAATAGGTGTTGGGTTTAA
+                                                                  
+                                                                  
+
+ 1201 TTAATACCTCGGTGATTGGTTGATCTGTGCAGCAGGCCACCATGGCACACATTTACATAT
+      ||||||::|++|||||||||||||:||||:||:|||::|::||||:|:|:|||||:||||
+ 1201 TTAATATTTCGGTGATTGGTTGATTTGTGTAGTAGGTTATTATGGTATATATTTATATAT
+                                                                  
+                                                                  
+
+ 1261 GTAACAGACCTGCAGATCCTGCACATGTATCCCGGAACTTAAAAGTTGATGAAAAATAAA
+      ||||:|||::||:||||::||:|:||||||::++|||:||||||||||||||||||||||
+ 1261 GTAATAGATTTGTAGATTTTGTATATGTATTTCGGAATTTAAAAGTTGATGAAAAATAAA
+                                                                  
+                                                                  
+
+ 1321 ATAAAAATAAATGTCATGGTATAAACTTGAAATTAAAAAAAAATACCTTTAGTACAAATT
+      ||||||||||||||:||||||||||:|||||||||||||||||||::|||||||:|||||
+ 1321 ATAAAAATAAATGTTATGGTATAAATTTGAAATTAAAAAAAAATATTTTTAGTATAAATT
+                                                                  
+                                                                  
+
+ 1381 TGTTGTGAGGTTTATATGTGAAAATGTCCCCAGAATTATTTCTTAAACTGTAAAATGATA
+      |||||||||||||||||||||||||||::::||||||||||:|||||:||||||||||||
+ 1381 TGTTGTGAGGTTTATATGTGAAAATGTTTTTAGAATTATTTTTTAAATTGTAAAATGATA
+                                                                  
+                                                                  
+
+ 1441 CAAATGTACATAATTATTCCAATGTAACTAGGGTTGGAGTAAAAGCTAAAATAGCAAGGT
+      :|||||||:|||||||||::|||||||:|||||||||||||||||:||||||||:|||||
+ 1441 TAAATGTATATAATTATTTTAATGTAATTAGGGTTGGAGTAAAAGTTAAAATAGTAAGGT
+                                                                  
+                                                                  
+
+ 1501 GACTGTGGAGGAGGTAGTTTCTGGCAAAGATAATTTGGGGGTAACTACTTTTTACATTAC
+      ||:|||||||||||||||||:|||:|||||||||||||||||||:||:||||||:||||:
+ 1501 GATTGTGGAGGAGGTAGTTTTTGGTAAAGATAATTTGGGGGTAATTATTTTTTATATTAT
+                                                                  
+                                                                  
+
+ 1561 ATTTTTGTCTTGTTTTTGAAGTGAATAAAGCAGTGGTTGTAGCAAAGACATATTTTTTAA
+      ||||||||:|||||||||||||||||||||:|||||||||||:|||||:|||||||||||
+ 1561 ATTTTTGTTTTGTTTTTGAAGTGAATAAAGTAGTGGTTGTAGTAAAGATATATTTTTTAA
+                                                                  
+                                                                  
+
+ 1621 AAGGTAGGAGCACTTTAAATATTCTATTTAACCAATCCATTTACAGCCTGTCCTTCTACT
+      ||||||||||:|:||||||||||:|||||||::|||::|||||:||::|||::||:||:|
+ 1621 AAGGTAGGAGTATTTTAAATATTTTATTTAATTAATTTATTTATAGTTTGTTTTTTTATT
+                                                                  
+                                                                  
+
+ 1681 ACCTTTCGGCTTCCCAGAAATCCCAAACTTCCTCACTGTCTTTCACTCTCCTCTCTAAGG
+      |::|||++|:||:::||||||:::|||:||::|:|:|||:|||:|:|:|::|:|:|||||
+ 1681 ATTTTTCGGTTTTTTAGAAATTTTAAATTTTTTTATTGTTTTTTATTTTTTTTTTTAAGG
+                                                              M&gt;&gt;&gt;
+                                                                U&gt;
+
+ 1741 ACTTGAAACTAACCAGGTAGGCGGTACTAAGTGCCGCCTGGTTTCCGGCAGGGCCGGTTT
+      |:||||||:|||::|||||||++|||:||||||:++::||||||:++|:||||:++||||
+ 1741 ATTTGAAATTAATTAGGTAGGCGGTATTAAGTGTCGTTTGGTTTTCGGTAGGGTCGGTTT
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;                                      
+      &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;                                    
+
+ 1801 TTACATCATCTCATTGTGGCGTGGCACCGCCGCTTGCGTGCCCAATTGTGAGGTCTCGCG
+      |||:||:||:|:|||||||++|||:|:++:++:|||++||:::|||||||||||:|++++
+ 1801 TTATATTATTTTATTGTGGCGTGGTATCGTCGTTTGCGTGTTTAATTGTGAGGTTTCGCG
+                                                           M&lt;&lt;&lt;&lt;&lt;&lt;
+                                                           U&lt;&lt;&lt;&lt;&lt;&lt;
+
+ 1861 CCCTCAGCCGTACATAAAGCGGGACAACACAGAACTTCCCAGTTACACCAGGCATCCTGG
+      :::|:||:++||:||||||++|||:||:|:||||:||:::|||||:|::|||:||::|||
+ 1861 TTTTTAGTCGTATATAAAGCGGGATAATATAGAATTTTTTAGTTATATTAGGTATTTTGG
+      &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;                                         
+      &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;                                         
+
+ 1921 CCCAAAGTTTCCCAAATCCAGGCGGCTAGAGGCCCACTGCTTCCCAACTACCAGCTGAGG
+      :::|||||||:::||||::|||++|:||||||:::|:||:||:::||:||::||:|||||
+ 1921 TTTAAAGTTTTTTAAATTTAGGCGGTTAGAGGTTTATTGTTTTTTAATTATTAGTTGAGG
+                                                                  
+                                                                  
+
+ 1981 GGGTCCGTCCCGAGAAGGGAG
+      ||||:++|::++|||||||||
+ 1981 GGGTTCGTTTCGAGAAGGGAG
+                           
+                           
+
+******************************************************************
+*  Explanations                                                  *
+*----------------------------------------------------------------*
+*  Upper row: Original sequence                                  *
+*  Lower row: Bisulfite modified sequence                        *
+*             (For display, assume all CpG sites are methylated) *
+*  ++         CpG sites                                          *
+*  ::::       Non-CpG 'C' converted to 'T'                       *
+*  M &gt;&gt;&gt;&gt;&gt;&gt;   Left  methylated-specific primer                   *
+*  M &lt;&lt;&lt;&lt;&lt;&lt;   Right methylated-specific primer                   *
+*                                                                *
+*  U &gt;&gt;&gt;&gt;&gt;&gt;   Left  unmethylated-specific primer                 *
+*  U &lt;&lt;&lt;&lt;&lt;&lt;   Right unmethylated-specific primer                 *
+******************************************************************
+
+
+
+</pre>
+<pre>MethPrimer v1.1 beta<br><br>Li Lab, PUMCH</pre>
+
+
+</br<br><tbdiv id="picinpicBtn"></tbdiv><tbdiv id="playerControlBtn"></tbdiv><tbdiv id="leftFullStackButton"></tbdiv><tbdiv id="rightFullStackButton"></tbdiv></body><style id="stylus-20" type="text/css" class="stylus">div[class="quicker_button"] {
+	color: #666;
+	background-color: #f6f6f6;
+	border: 1px solid #ddd;
+	padding: 5px !important;
+	font-size: 12px !important;
+	font-weight: 550 !important;
+	text-transform: uppercase;
+	text-align: center;
+	border-radius: 5px;
+	box-shadow: #eee 0px 1px 5px;
+}
+
+div[class="quicker_button"]:hover {
+	color: white !important;
+	background-color: #434B5E88 !important;
+	font-weight: 600 !important;
+}
+
+.quicker_toolbar {
+	display: flex
+}</style><style id="stylus-34" type="text/css" class="stylus">/*my_table*/
+.df_html *{
+	font-size: 12px;
+	border: none !important;
+	text-align: left;
+	color: #666;
+	font-family: "Microsoft Yahei"
+}
+
+.df_html .dataframe *{
+	border: 1px solid #eee !important
+}
+
+.df_html .dataframe{
+	margin-bottom: 15px
+}
+
+.df_html thead > tr > th{
+	background-color: #f0f2f6
+}
+/* 
+.df_html tbody > tr:nth-of-type(n) > th,
+.df_html thead > tr > th:nth-of-type(1)
+
+{
+	display: none
+} */
+
+.df_html tbody tr:nth-of-type(n):hover{
+	background-color: #f0f2f688
+}</style><style id="stylus-43" type="text/css" class="stylus">.bilibili-player-video-sendjumpbar,
+.bilibili-player-video-pause-panel-container-qrcode,
+.bilibili-player-video-suspension-bar-btn-group-sharebtn {
+	display: none !important;
+}
+
+[stylus-iframe="https://www.inoreader.com"] {
+	width: 98% !important;
+	margin: 0 auto !important
+}
+
+[stylus-iframe="https://www.inoreader.com"] .bilibili-player-video-control {
+	background: #f0f2f688 !important;
+	border: 1px solid #ddd;
+	position: relative;
+	margin: 0 auto !important;
+	margin-bottom: 25px !important;
+}</style></html>
